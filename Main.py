@@ -14,3 +14,7 @@ def generarContraseñas(longitud,usarSimbolos,usarNumeros):
     if longitud < 8:
         print("Advertencia: La longitud mínima recomendada es 8 caracteres.")
         longitud = 8 
+    contrasena = ''.join(secrets.)
+
+
+
